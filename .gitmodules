@@ -1,0 +1,3 @@
+[submodule "DuEngine"]
+	path = DuEngine
+	url = git@github.com:eduardo-gomes/DuEngine.git
